@@ -1,12 +1,5 @@
-# Hi, I'm Doyu Lee
-
+Hello, I'm Doyu Lee
 I'm a second-year Computer Science student interested in software development and learning new technologies.
-
-## Tech Stack
-- Java
-- Python
-- C
-- C++
 
 ## Interests
 - Software Development
